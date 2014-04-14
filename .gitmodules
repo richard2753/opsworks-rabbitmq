@@ -25,3 +25,6 @@
 [submodule "yum-erlang_solutions"]
 	path = yum-erlang_solutions
 	url = https://github.com/opscode-cookbooks/yum-erlang_solutions.git
+[submodule "rbenv"]
+	path = rbenv
+	url = https://github.com/ddux/rbenv-cookbook.git
