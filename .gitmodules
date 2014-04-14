@@ -16,3 +16,6 @@
 [submodule "build-essential"]
 	path = build-essential
 	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "yumrepo"]
+	path = yumrepo
+	url = https://github.com/bryanwb/cookbook-yumrepo.git
