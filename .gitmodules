@@ -6,7 +6,7 @@
 	url = https://github.com/opscode-cookbooks/erlang.git
 [submodule "hostsfile"]
 	path = hostsfile
-	url = https://github.com/foxycoder/hostsfile.git
+	url = https://github.com/richard2753/hostsfile.git
 [submodule "apt"]
 	path = apt
 	url = https://github.com/opscode-cookbooks/apt.git
